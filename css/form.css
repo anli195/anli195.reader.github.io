@@ -1,0 +1,38 @@
+/*
+ * checkbox 按钮
+ */
+[name="checkbox"]{
+	display: none;
+}
+.checkbox_off{
+	float: left;
+	margin: 50px;
+	width: 31px;
+	height: 39px;
+	background: url("../images/checkbox.png") no-repeat left bottom;
+	position: relative;
+	cursor: pointer;
+}
+.checkbox_on{
+	background-position: left 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
